@@ -1,0 +1,381 @@
+/* HEADINGS */
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+}
+
+/* HEADER */
+
+header {
+  display: block;
+  width: 100%;
+  background: transparent;
+  color: #000;
+  height: 100px;
+  position: relative;
+  padding: 20px 0px 20px 20px;
+  z-index: 1;
+}
+
+/* NAVIGATION */
+
+.menu {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  background: #e8e8e8;
+  margin: auto;
+  text-align: center;
+}
+
+nav {
+  position: relative;
+  top: 20%;
+  margin: 0 auto;
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  z-index: 5;
+}
+
+nav a:hover {
+  transition: .5s;
+  color: #515151;
+  text-decoration: none;
+}
+
+nav ul li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+/* LOGO */
+
+.logo {
+  position: absolute;
+  top: 5px;
+  left: 45%;
+  border-radius: 50%;
+}
+
+/* SOCIAL BUTTONS */
+
+.socialbuttons {
+  float: right;
+  padding-top: 15px;
+  margin-right: 20px;
+}
+
+.socialbuttons img {
+  width: 30px;
+  margin-right: 20px;
+}
+
+#socialcontact.socialbuttons {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0 auto;
+}
+
+#socialcontact {
+  display: none;
+}
+
+/* BOOTSTRAP */
+
+.container-fluid {
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 100px 5%;
+  background: #f9f9f9;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.left-column {
+  width: 50%;
+  float: left;
+  padding: 0px 30px;
+}
+
+.right-column {
+  width: 50%;
+  float: left;
+  padding: 0px 30px;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+/* PAGE ARROWS */
+
+
+.arrowRight {
+  position: absolute;
+  right: 0;
+  top: 40%;
+}
+
+.arrows img {
+  width: 70px;
+}
+
+.arrowLeft {
+  position: absolute;
+  left: 0;
+  top: 40%;
+}
+
+/* LANDING PAGE */
+
+.introduction {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('./img/bg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  padding: 100px 5%;
+}
+
+.introduction h1 {
+  position: absolute;
+  top: 300px;
+}
+
+#intro {
+  width: 300px;
+  position: absolute;
+  top: 470px;
+}
+
+/* ABOUT */
+
+
+/* PORTFOLIO */
+
+.projects {
+  max-width: 1200px;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  max-height: 100%;
+  overflow: scroll;
+  color: #ffffff;
+}
+
+.project-wrapper {
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  background-color: #fcaf12;
+  overflow: hidden;
+  position: relative;
+}
+
+.project-wrapper-inner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  top: 292px;
+  padding: 15px 20px;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  background: rgba(0,0,0,0.8);
+}
+
+.project-wrapper img {
+  max-width: 100%;
+  height: auto;
+}
+
+.project-wrapper:hover .project-wrapper-inner {
+  top: 0;
+}
+
+.project:hover img {
+  opacity: 0.2;
+  transition: ease .5s;
+}
+
+.more {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  font-size: 50px;
+}
+
+/* MODAL */
+
+.modal {
+  position: absolute;
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  color: #000000;
+}
+
+.modal-project {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.backdropStyle {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.5);
+  padding: 2%;
+  z-index: 9;
+}
+
+.modalStyle {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+  color: #000000;
+  padding: 35px;
+  overflow: scroll;
+}
+
+.modalStyle img {
+  width: 100%;
+
+}
+
+.closeStyle button {
+  position: absolute;
+  top: 30px;
+  right: 20px;
+  cursor: pointer;
+  background: #ffffff;
+  padding: 10px;
+  border: none;
+  font-size: 80px;
+}
+
+.closeStyle button:hover {
+  color: #515151;
+}
+
+.footerStyle button {
+  position: relative;
+  float: left;
+  cursor: pointer;
+  color: #ffffff;
+  background: #000000;
+  border: 1px solid #000000;
+  font-size: 30px;
+  padding: 15px;
+  margin: 30px 0px;
+  transition: ease .5s;
+}
+
+.footerStyle button:hover {
+  background: #515151;
+  border: #515151 solid 1px;
+  color: #ffffff;
+  transition: ease .5s;
+}
+
+/* CONTACT */
+
+#contact-text {
+  font-size: 30px;
+}
+
+/* FOOTER */
+
+footer {
+  position: fixed;
+  width: 100%;
+  height: 300px;
+  bottom: 0;
+  left: 0;
+  padding: 30px;
+  background: #ffffff;
+}
+
+/* MEDIA SCREEN */
+
+@media only screen and (max-width: 900px) {
+  .container-fluid {
+    height: auto;
+    min-height: 100%;
+  }
+
+  .left-column, .right-column {
+    width: 100%;
+  }
+
+  .arrowLeft, .arrowRight {
+    display: none;
+  }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+  #socialheader {
+    display: none;
+  }
+
+  #socialcontact {
+    display: block;
+  }
+  .logo {
+    left: auto;
+    right: 40px;
+  }
+}
+
+@media only screen and (max-width: 509px) {
+  #intro {
+    top: 530px;
+  }
+  #contact-text {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .project-wrapper-inner h2 {
+    font-size: 20px;
+  }
+  .closeStyle button {
+    font-size: 30px;
+  }
+}
