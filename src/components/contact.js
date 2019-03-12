@@ -11,8 +11,8 @@ import Paperplane from '../img/paperplane.png'
 
 import Linkedin from '../img/linkedinicon.png'
 import Linkedincolor from '../img/linkediniconcolor.png'
-import Dribble from '../img/dribbleicon.png'
-import Dribblecolor from '../img/dribbleiconcolor.png'
+import Github from '../img/github.png'
+import Githubcolor from '../img/githubcolor.png'
 import Behance from '../img/behanceicon.png'
 import Behancecolor from '../img/behanceiconcolor.png'
 import Instagram from '../img/instagramicon.png'
@@ -50,10 +50,10 @@ class Contact extends Component {
                         hoverSrc={Linkedincolor}
                       />
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/summersdani" target="_blank">
                       <HoverImage
-                          src={Dribble}
-                          hoverSrc={Dribblecolor}
+                          src={Github}
+                          hoverSrc={Githubcolor}
                         />
                       </a>
                       <a href="https://www.behance.net/danibsumme422f" target="_blank">

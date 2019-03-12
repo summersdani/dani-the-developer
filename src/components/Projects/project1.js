@@ -36,7 +36,7 @@ class Project1 extends Component {
             <div class="project-info">
               <h3>THE <b>CLIENT</b></h3>
               <p>
-                DJ NeNe is a djing business that was created by Stephanie Jeanty in Atlanta, GA.
+                DJ NeNe is a DJing business that was created by Stephanie Jeanty in Atlanta, GA.
                 DJ NeNe specializes in Hatian and Caribbean music.
                 The objective of this project was to create a minimalistic eyecatching logo that will help with
                 the overall branding of her business.
@@ -48,14 +48,14 @@ class Project1 extends Component {
             <div class="project-info">
               <h3>THE <b>BRIEF</b></h3>
               <p>
-                I was contacted by my client to come up with a simple logo for her Djing business. She
+                I was contacted by my client to come up with a simple logo for her DJing business. She
                 orginally sent over 3 graphic designs from the web that she wanted me to gather
                 inspiration from. I study these three images to gain a better understanding of her style
                 and researched DJ logos to see what was already created and popular.
               </p>
               <p>
                 After my research I began the design process. I wanted to keep the logo simple but orginal
-                so I opted for a modern headphone set with her name "NeNe" written out with the headphones cord.
+                so I opted for a modern headphone set with her name "NeNe" written out with the headphone cord.
                 Once I did that I felt it was missing something and added a background color to it to contrast against
                 the black or white font.
               </p>

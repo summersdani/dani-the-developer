@@ -48,7 +48,7 @@ class Project3 extends Component {
                 the rest of the letters. I wanted the “X” to be different than the rest because it can stand-alone and still
                 represent the brand. I also added some drips to the first and last letters to add the sauce effect. Because
                 the brand wants to appeal to influencer, which are mostly younger kids and millennial, I kept the color of the
-                font black but gave the background a bright mustard color.
+                font black but gave the background a bright trendy mustard color.
               </p>
             </div>
             <div class="project-info">

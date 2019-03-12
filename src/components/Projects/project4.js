@@ -34,8 +34,9 @@ class Project4 extends Component {
             <div class="project-info">
               <h3>THE <b>CLIENT</b></h3>
               <p>
-                Housing Hero purchases homes from people who are in a rush or do not want to deal with the process. Their
-                slogan is “Sell your house in 3 days”. Their competitor is We Buy Ugly Houses.
+                Housing Hero purchases homes from people who are in a rush or do not want to deal with the tiring process
+                of selling a home. Their slogan is “Sell your house in 3 days”. One of their biggest competitor is We Buy
+                Ugly Houses.
               </p>
             </div>
             <div class="project-info">
@@ -44,9 +45,9 @@ class Project4 extends Component {
                 I had full creative control over the design of the website and landing page. I started off my researching
                 more about other competitors like We Buy Ugly Houses, and looking at the information they provided for
                 their customers. Using Amazon Web Server (AWS) to create the instance to host WordPress, I began the design
-                process and coming up a color scheme that was fun yet muted. I made sure to optimize the site by adding titles,
-                descriptions and effective keywords to the landing page. I also tested the performance speed of the site getting
-                it down to 86% on gtmetrix.com.
+                process and coming up with a color scheme that was fun, yet muted. I made sure to optimize the site by adding titles,
+                descriptions, and effective keywords to the landing page. I also tested the performance speed of the site getting
+                it up to 86% on gtmetrix.com.
               </p>
               <p>
                 As soon as a user lands on the landing page I made sure to display a call to action form for users to sign up,

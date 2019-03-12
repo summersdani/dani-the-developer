@@ -35,9 +35,9 @@ class Project6 extends Component {
             <div class="project-info">
               <h3>THE <b>CLIENT</b></h3>
               <p>
-                The Prodigy Studio's mission is to develop minds while encouraging independent thinking. In a world of cultural
+                The Prodigy Studio's mission is to develop minds while encouraging independent thinking. "In a world of cultural
                 differences, we will prepare our clients by providing individualized instruction to excel in all areas of life;
-                mentally, socially, and academically.
+                mentally, socially, and academically.""
               </p>
             </div>
             <div class="project-info">
@@ -45,7 +45,7 @@ class Project6 extends Component {
               <p>
                 I was approached by a client to create a logo and website for a company called The Prodigy Studio. The client
                 wanted the color scheme to be purple to give off a royal vibe. My client also wanted to incorporate the African
-                web symbol, which stands for wisdom. I used Adobe Illustrator to create a child like font and incorporated the
+                web symbol, which stands for wisdom. I used Adobe Illustrator to create a childlike feeling and incorporated the
                 African web symbol over the “i” to make it resemble a flower.
               </p>
             </div>
@@ -58,7 +58,7 @@ class Project6 extends Component {
                 it was to create a page across all platforms.
               </p>
               <p>
-                I created a color scheme that matched the royal purple and give it a child like vibe and added a fun color
+                I created a color scheme that matched the royal purple and gave it an innocent vibe and added a fun color
                 changing footer background. The footer also contains a form area where users can sign up to receive newsletters
                 from the company.
               </p>
@@ -67,7 +67,7 @@ class Project6 extends Component {
               <h3>THE <b>CONCLUSION</b></h3>
               <p>
                 I believe this site changed my views on creating web applications. I was able to be more creative and get a
-                better understanding of PHP in the WordPress environment. 
+                better understanding of PHP in the WordPress environment.
               </p>
             </div>
           </Modal>

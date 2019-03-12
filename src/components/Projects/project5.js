@@ -34,10 +34,11 @@ class Project5 extends Component {
             <div class="project-info">
               <h3>THE <b>BRIEF</b></h3>
               <p>
-                I created this cartoon character of myself just for fun using Adobe Illustrator. I took an image that I
-                 had and began to recreate the picture. Because the original image was cut off I added drips to the end.
-                 I used bold black lines only on the face and body to make it stand out and for the hair I used a thinner
-                 line. To finish off the look and make it pop, I added a highlight to the check bones and collarbones. 
+                I created this cartoon character of myself just for fun using Adobe Illustrator. I took a picture that I
+                had and began to trace over it with the pen tool. Because the original image was cut off I added drips
+                to the end to add character.
+                I used bold black lines only on the face and body to make it stand out more than the hair outline. 
+                To finish off the look and make it pop, I added a highlight to the check bones and collarbones.
               </p>
             </div>
           </Modal>

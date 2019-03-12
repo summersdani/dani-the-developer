@@ -45,11 +45,11 @@ class Project2 extends Component {
               <h3>THE <b>BRIEF</b></h3>
               <p>
                 I wanted to create a logo design that was simple and elegant. I always stick with minimal looks
-                becasue through research you will find the biggest brands have the simplest designs because they
-                are timeless. I knew I wanted to incorporate the letters "N" and "D" from NappyDanny. Using Adobe Illustrator,
-                I played around with different fonts and came up with different ways to merge the two letters together.
-                For the font I knew I wanted something that had movement, nothing to bold but also not to thin. For the color
-                I chose some what of a goldish color with a radial gradient to make it look as it was shining. The gold
+                becasue through research you will find the biggest brands have the simplest designs that remain timeless.
+                I knew I wanted to incorporate the letters "N" and "D" from NappyDanny. Using Adobe Illustrator,
+                I played around with different fonts and came up with numerous ways to merge the two letters together.
+                For the font I knew I wanted something that had movement and body, nothing to bold but also not to thin.
+                For the color I chose a goldish shade with a radial gradient to make it look as if it was shining. The gold
                 color gives off a powerful and reliable look for my brand.
               </p>
             </div>
@@ -72,7 +72,7 @@ class Project2 extends Component {
               </p>
               <p>
                 Each page has a Meta title, description, and keywords to help with search engine optimization. The site is also
-                linked to Google search console and Google Analytics to measure the amount of users who visit the site.
+                linked to my Google search console and Google Analytics to measure the amount of users who visit the site.
               </p>
             </div>
             <img src={Nappydannyshop} alt="NappyDanny Shop" />

@@ -10,6 +10,11 @@ h2 {
   font-size: 30px;
 }
 
+a:hover {
+  text-decoration: none;
+  color: #515151;
+}
+
 /* HEADER */
 
 header {
