@@ -311,6 +311,10 @@ nav ul li {
   transition: ease .5s;
 }
 
+.project-info {
+  padding: 20px 8%;
+}
+
 /* CONTACT */
 
 #contact-text {

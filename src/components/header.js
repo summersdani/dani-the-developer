@@ -78,7 +78,7 @@ render() {
                   hoverSrc={Behancecolor}
                 />
               </a>
-              <a href="https://www.instagram.com/danithedeveloper/" target="_blank">
+              <a href="https://www.instagram.com/danithecreative/" target="_blank">
                 <HoverImage
                     src={Instagram}
                     hoverSrc={Instagramcolor}
