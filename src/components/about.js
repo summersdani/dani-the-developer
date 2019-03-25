@@ -51,11 +51,6 @@ class About extends Component {
             graphic designs for iconography and social media post. Currently, Danielle is learning Node.js
             and React.js throught Udemy.com.
             </p>
-            <p>
-            An ideal position for her would involve creating applications through programming
-            where her strong problem-solving, coding, and creative skills will be well
-            utilized and further developed.
-          </p>
           </div>
           <div className="right-column">
             <h2>TECHNICAL COMPETENCIES</h2>
