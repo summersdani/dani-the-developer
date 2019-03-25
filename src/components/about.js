@@ -7,7 +7,7 @@ import Rightarrow from '../img/rightarrow.png'
 import Rightarrowcolor from '../img/rightarrowcolor.png'
 import Leftarrow from '../img/arrowleft.png'
 import Leftarrowcolor from '../img/arrowleftcolor.png'
-import Me from '../img/meabout.png'
+import Me from '../img/aboutimg.png'
 
 class About extends Component {
   render() {
