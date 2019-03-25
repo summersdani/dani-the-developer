@@ -40,7 +40,7 @@ class About extends Component {
 
           <div className="left-column">
           <p>
-            <img src={Me} alt="Dani Summers" />
+            <div id="me"><img src={Me} alt="Dani Summers" /></div>
             Danielle Summers graduated on December of 2018 from Kennesaw State University
             with a bachelor of business administration in Information Systems.
             She has experience in web development, graphic design, social media management,
