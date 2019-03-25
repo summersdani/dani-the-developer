@@ -179,7 +179,10 @@ nav ul li {
 
 #me {
   float: left;
-  width: 200px;
+}
+
+#me img {
+  width: 100px;
 }
 
 /* PORTFOLIO */
