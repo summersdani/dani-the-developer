@@ -49,7 +49,7 @@ class About extends Component {
             websites for clients through WordPress, trouble shooting, launching hosting through
             Amazon Web Servers, search engine optimization, creating landing pages, and
             graphic designs for iconography and social media post. Currently, Danielle is learning Node.js
-            and React.js throught Udemy.com.
+            and React.js through Udemy.com.
             </p>
           </div>
           <div className="right-column">
