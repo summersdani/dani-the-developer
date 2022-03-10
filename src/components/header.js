@@ -10,8 +10,6 @@ import Github from '../img/github.png'
 import Githubcolor from '../img/githubcolor.png'
 import Behance from '../img/behanceicon.png'
 import Behancecolor from '../img/behanceiconcolor.png'
-import Instagram from '../img/instagramicon.png'
-import Instagramcolor from '../img/instagramiconcolor.png'
 
 
 class Header extends Component {
@@ -78,12 +76,6 @@ render() {
                   hoverSrc={Behancecolor}
                 />
               </a>
-              <a href="https://www.instagram.com/danithecreative/" target="_blank">
-                <HoverImage
-                    src={Instagram}
-                    hoverSrc={Instagramcolor}
-                  />
-                </a>
       </div>
 
       <button className="hamburger hamburger--collapse" type="button" onClick={this.showMenu}>
