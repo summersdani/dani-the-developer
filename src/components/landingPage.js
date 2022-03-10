@@ -30,7 +30,7 @@ class Landingpage extends Component {
 
           <div id="intro">
             <p>
-              I am a front-end developer and graphic design artist.
+              I am a full stack web app developer and graphic design artist.
               I also dabble in marketing, photography, animation, and videography
               just to name a few.
             </p>
