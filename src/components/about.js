@@ -45,28 +45,21 @@ class About extends Component {
             with a bachelor of business administration in Information Systems.
             She has experience in web development, graphic design, social media management,
             SEO, customer service, and more. She currently holds a position as
-            Junior Developer at Quickly Media. Her current role consist of designing front-end
-            websites for clients through WordPress, trouble shooting, launching hosting through
-            Amazon Web Servers, search engine optimization, creating landing pages, and
-            graphic designs for iconography and social media post. Currently, Danielle is learning Node.js
-            and React.js through Udemy.com.
+            Web App Developer at S.P. Richards. Her current role consist of resurfacing front end pages using
+            .Net MVC Framework, C#, JavaScript, HTML, and CSS.
+            Danielle works with APIs, creates new features like shopping carts, creates SQL tables, production support,
+            and trouble shooting.
+            Currently, Danielle is refreshing up on React.js, Node,js, .Net Core, and more.
             </p>
           </div>
           <div className="right-column">
             <h2>TECHNICAL COMPETENCIES</h2>
             <ul>
-              <li>MySQL</li>
-              <li>Visual Studio - Visual Basic</li>
-              <li>Microsoft Office Suite - Word, PowerPoint, Excel, Visio, Access</li>
-              <li>HTML5, CSS3, PHP</li>
-              <li>JavaScript</li>
+              <li>JavaScript, JSON, HTML5, CSS/SCSS, C#, Bootstrap, SQL</li>
+              <li>Visual Studio - MVC Framework</li>
               <li>WordPress</li>
-              <li>Proficient in Adobe Dreamweaver(Bootstrap Framework, ASP.NET),
-              Photoshop, Illustrator</li>
-              <li>Final Cut Pro X</li>
-              <li>NetBeans</li>
               <li>Amazon Web Server (AWS)</li>
-              <li>Atom</li>
+              <li>Microsoft Office Suite - Word, PowerPoint, Excel, Visio, Access</li>
             </ul>
 
           </div>
