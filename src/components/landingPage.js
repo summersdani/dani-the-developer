@@ -25,12 +25,12 @@ class Landingpage extends Component {
 
           <h1>
             hello! <br />
-            i'm danielle summers<br />
+            i'm danielle knight<br />
           </h1>
 
           <div id="intro">
             <p>
-              I am a full stack web app developer and graphic design artist.
+              I am a frontend web developer and graphic design artist.
               I also dabble in marketing, photography, animation, and videography
               just to name a few.
             </p>
