@@ -41,21 +41,21 @@ class About extends Component {
           <div className="left-column">
           <p>
             <div id="me"><img src={Me} alt="Dani Summers" /></div>
-            Danielle Summers graduated on December of 2018 from Kennesaw State University
+            Danielle Knight graduated on December of 2018 from Kennesaw State University
             with a bachelor of business administration in Information Systems.
             She has experience in web development, graphic design, social media management,
             SEO, customer service, and more. She currently holds a position as
-            Web App Developer at S.P. Richards. Her current role consist of resurfacing front end pages using
+            Web App Developer at S.P. Richards. Her current role consist of resurfacing frontend pages using
             .Net MVC Framework, C#, JavaScript, HTML, and CSS.
             Danielle works with APIs, creates new features like shopping carts, creates SQL tables, production support,
             and trouble shooting.
-            Currently, Danielle is refreshing up on React.js, Node,js, .Net Core, and more.
+            Currently, Danielle first found her love in coding through Wordpress, using HTML, CSS, and PHP to create breathtaking sites for her clients and herself.
             </p>
           </div>
           <div className="right-column">
             <h2>TECHNICAL COMPETENCIES</h2>
             <ul>
-              <li>JavaScript, JSON, HTML5, CSS/SCSS, C#, Bootstrap, SQL</li>
+              <li>JavaScript, JSON, HTML5, CSS/SCSS, PHP, C#, Bootstrap, SQL</li>
               <li>Visual Studio - MVC Framework</li>
               <li>WordPress</li>
               <li>Amazon Web Server (AWS)</li>
